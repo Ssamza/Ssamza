@@ -15,7 +15,7 @@ Here are a few noteworthy projects I have worked on:
 - Project Name: Rick & Morty App
 - Project Name: Countries App
 
-Feel free to check out my GitHub repositories for more projects and code samples.
+Check out my GitHub repositories for more projects and code samples.
 
 ## Contact Information
 You can reach me via:
