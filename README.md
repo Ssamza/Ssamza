@@ -1,8 +1,9 @@
-### Hi there, My name is Santiago👋
+### Hi there, My name is Santiago 🐻
 
 I'm a Full Stack Developer with a background in architecture and construction, which has allowed me to develop valuable skills in analysis, project management, team leadership, and adaptability in work processes. I have knowledge of agile methodologies such as SCRUM, GIT, data structures, algorithms, and CSS frameworks.
 
-##Skills and Technologies
+## Skills and Technologies
+
 Frontend: React, Redux, HTML, CSS
 Backend: Express, SQL, RESTful APIs
 Database: MySQL, MongoDB
@@ -10,7 +11,8 @@ Version Control: Git, GitHub
 Agile Methodologies: Scrum
 Other: Data Structures, Algorithms
 
-##Projects
+## Projects
+
 Here are a few noteworthy projects I have worked on:
 
 Project Name: Rick & Morty App
@@ -18,7 +20,7 @@ Project Name: Countries App
 
 Feel free to check out my GitHub repositories for more projects and code samples.
 
-##Contact Information
+## Contact Information
 You can reach me via:
 
 Email: santiagoemezeta@gmail.com
