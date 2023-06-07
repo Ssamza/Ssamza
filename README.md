@@ -1,14 +1,14 @@
 ### Hi there, My name is Santiago 🐻
 
-I'm a Full Stack Developer with a background in architecture and construction, which has allowed me to develop valuable skills in analysis, project management, team leadership, and adaptability in work processes. I have knowledge of agile methodologies such as SCRUM, GIT, data structures, algorithms, and CSS frameworks.
+I'm a Full Stack Developer with a background in architecture and construction, which has allowed me to develop valuable skills in analysis, project management, team leadership, and adaptability in work processes. Always willing to learn and step out of my comfort zone.
 
 ## Skills and Technologies
 
 Frontend: React, Redux, HTML, CSS
-Backend: Express, SQL, RESTful APIs
-Database: MySQL, MongoDB
+Backend: NodeJs, Express, RESTful APIs
+Database: PostgreSQL, Sequelize
 Version Control: Git, GitHub
-Agile Methodologies: Scrum
+Agile Methodologies: SCRUM
 Other: Data Structures, Algorithms
 
 ## Projects
