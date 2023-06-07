@@ -1,4 +1,4 @@
-### Hi there, My name is Santiago 🐻
+### Hello, My name is Santiago.
 
 I'm a Full Stack Developer with a background in architecture and construction, which has allowed me to develop valuable skills in analysis, project management, team leadership, and adaptability in work processes. Always willing to learn and step out of my comfort zone.
 
