@@ -12,8 +12,10 @@ I'm a Full Stack Developer with a background in architecture and construction, w
 
 ## Projects
 Here are a few noteworthy projects I have worked on:
-- Project Name: Rick & Morty App
-- Project Name: Countries App
+- Project: The Art Gallery
+- Project: Countries App
+- Project: Rick & Morty App
+
 
 Check out my GitHub repositories for more projects and code samples.
 
