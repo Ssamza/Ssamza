@@ -16,8 +16,6 @@ Here are a few noteworthy projects I have worked on:
 - Project: Countries App
 - Project: Rick & Morty App
 
-Portfolio: https://ssamza.github.io/
-
 
 Check out my GitHub repositories for more projects and code samples.
 
