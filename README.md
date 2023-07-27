@@ -14,7 +14,6 @@ I'm a Full Stack Developer with a strong inclination towards back-end developmen
 Here are a few noteworthy projects I have worked on:
 - Project: The Art Gallery
 - Project: Countries App
-- Project: Rick & Morty App
 
 
 Check out my GitHub repositories for more projects and code samples.
