@@ -15,6 +15,7 @@ Here are a few noteworthy projects I have worked on:
 - Project: The Art Gallery
 - Project: Countries App
 
+Portfolio: http://ssamza.github.io/
 
 Check out my GitHub repositories for more projects and code samples.
 
