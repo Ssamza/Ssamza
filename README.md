@@ -5,7 +5,7 @@ I'm a Full Stack Developer with a strong inclination towards back-end developmen
 ## Skills and Technologies
 - Frontend: React, Redux, HTML, CSS
 - Backend: NodeJs, Express, DBeaver, RESTful APIs
-- Database: PostgreSQL, Sequelize
+- Database: PostgreSQL(Sequelize) & MongoDB(Mongoose)
 - Version Control: Git, GitHub
 - Agile Methodologies: SCRUM
 - Other: Data Structures, Algorithms
