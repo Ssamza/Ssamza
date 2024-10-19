@@ -1,6 +1,6 @@
 ### Hello, My name is Santiago.
 
-I'm a Software developer with strong inclination to the Front-end . My background in architecture and construction has equipped me with valuable skills in analysis, project management, team leadership, and adaptability in work processes. Always willing to learn.
+I'm a Software developer with strong inclination to the Front-end . My background in architecture and construction has equipped me with valuable skills in analysis, project management, adaptability, and strong collaboration within teams to enhance work processes. Always willing to learn.
 
 ## Skills and Technologies
 - Frontend: React, Redux, Typescript, SCSS, Storybook
