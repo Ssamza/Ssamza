@@ -16,6 +16,7 @@ Here are a few noteworthy projects I have worked on:
 - Project: Countries App
 
 Portfolio: http://ssamza.github.io/
+Issuu: https://issuu.com/santiagomz/docs/portfolio
 
 Check out my GitHub repositories for more projects and code samples.
 
