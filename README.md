@@ -8,7 +8,7 @@ I'm a Software developer with strong inclination to the Front-end . My backgroun
 - Database: PostgreSQL(Sequelize) & MongoDB(Mongoose)
 - Version Control: Git, GitHub
 - Agile Methodologies: SCRUM
-- Other: MUI-material, Formik, Jenkins, SonarQube, Insomnia, ThunderClient, Jest, Jira, Bitbucket, Azure.
+- Other: MUI-material, Formik, Jenkins, SonarQube, Insomnia, ThunderClient, Jest, Jira, Bitbucket, Azure
 
 ## Projects
 Here are a few noteworthy projects I have worked on:
