@@ -3,7 +3,7 @@
 I'm a Software developer with strong inclination to the Front-end . My background in architecture has equipped me with valuable skills in analysis, project management, adaptability, and strong collaboration within teams to enhance work processes. Always willing to learn.
 
 ## Skills and Technologies
-- Frontend: React, Redux, Typescript, SCSS, Tailwindcss, GSAP, Storybook
+- Frontend: React, Redux, Next, Typescript, SCSS, Tailwindcss, GSAP, Storybook
 - Backend: NodeJs, Express, DBeaver, RESTful APIs
 - Database: PostgreSQL(Sequelize) & MongoDB(Mongoose)
 - Version Control: Git, GitHub
