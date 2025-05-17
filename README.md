@@ -7,7 +7,7 @@ I'm a Software developer with strong inclination to the Front-end . My backgroun
 - Backend: NodeJs, Express, DBeaver, RESTful APIs
 - Database: PostgreSQL(Sequelize) & MongoDB(Mongoose)
 - Version Control: Git, GitHub
-- Agile Methodologies: SCRUM
+- Agile Methodologies: Scrum, Kanban
 - Other: MUI-material, Formik, Jenkins, SonarQube, Insomnia, ThunderClient, Jest, Jira, Bitbucket, Azure, Mockoon
 
 ## Projects
