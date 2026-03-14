@@ -12,8 +12,7 @@ I'm a Software developer with strong inclination to the Front-end . My backgroun
 
 ## Projects
 
-Portfolio: https://www.imsantiago.dev/  
-Issuu: https://issuu.com/santiagomz/docs/portfolio (arch)
+Portfolio: https://www.imsantiago.dev/
 
 Check out my GitHub repositories for more projects and code samples.
 
