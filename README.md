@@ -4,7 +4,7 @@ I'm a Software engineer with a natural drive for high-growth, fast-moving enviro
 
 ## Skills and Technologies
 - Frontend: React, Redux, Next, Typescript, SCSS, Tailwindcss, GSAP, Storybook
-- Backend: NodeJs, Express, DBeaver, RESTful APIs
+- Backend: NodeJs, Express, DBeaver, Prisma, Supabase, RESTful APIs
 - Database: PostgreSQL(Sequelize) & MongoDB(Mongoose)
 - Version Control: Git, GitHub
 - Agile Methodologies: Scrum, Kanban
